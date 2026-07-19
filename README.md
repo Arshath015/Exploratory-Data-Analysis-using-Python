@@ -51,3 +51,10 @@ Examined column names and unique values in specific columns.Checked for missing 
 # Summary
 
    This analysis provides insights into student performance through various visualizations, helping to understand the distribution of scores, relationships between different subjects, and the impact of gender on performance.
+
+
+## Requirements
+
+```
+pip install -r requirements.txt
+```
