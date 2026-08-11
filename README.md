@@ -1,5 +1,7 @@
 # Exploratory Data Analysis (EDA) on Student Performance Dataset
 
+![Python](https://img.shields.io/badge/python-3.x-blue.svg)
+
 This repository contains an Exploratory Data Analysis (EDA) of the Student Performance dataset. The analysis covers data exploration, cleaning, and visualization to understand student performance metrics better.
 
 # Dataset
